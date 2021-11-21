@@ -25,3 +25,5 @@ This will run a test network that is torn down when contract code finishes runni
 This will deploy contract to the Rinkeby test network
 
 ```npx hardhat run scripts/deploy.js --network rinkeby```
+
+### Don't forget to get your Alchemy key and grab your test_net private key from Metamask
