@@ -27,3 +27,6 @@ This will deploy contract to the Rinkeby test network
 ```npx hardhat run scripts/deploy.js --network rinkeby```
 
 ### Don't forget to get your Alchemy key and grab your test_net private key from Metamask
+
+# Motivation
+I built this project along with 🦄buildspace to learn Solidity and smart contract development
