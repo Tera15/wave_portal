@@ -15,9 +15,11 @@ npx hardhat help
 ```
 ## Run on local test network
 This will run a test network that is torn down when contract code finishes running
-- contract state will not be persisted in between
 
 ```npx hardhat run scripts/run.js```
+
+- contract state will not be persisted in between
+
 
 ## Deploy
 This will deploy contract to the Rinkeby test network
