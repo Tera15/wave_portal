@@ -28,5 +28,5 @@ This will deploy contract to the Rinkeby test network
 
 ### Don't forget to get your Alchemy key and grab your test_net private key from Metamask
 
-# Motivation
+##### Motivation
 I built this project along with 🦄buildspace to learn Solidity and smart contract development
